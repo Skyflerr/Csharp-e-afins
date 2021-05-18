@@ -1,0 +1,10 @@
+C:\Users\skyem\Documents\Code Projects\Visual studio\Main Calculator\Main Calculator\bin\Debug\Main Calculator.exe.config
+C:\Users\skyem\Documents\Code Projects\Visual studio\Main Calculator\Main Calculator\bin\Debug\Main Calculator.exe
+C:\Users\skyem\Documents\Code Projects\Visual studio\Main Calculator\Main Calculator\bin\Debug\Main Calculator.pdb
+C:\Users\skyem\Documents\Code Projects\Visual studio\Main Calculator\Main Calculator\obj\Debug\Main Calculator.csprojAssemblyReference.cache
+C:\Users\skyem\Documents\Code Projects\Visual studio\Main Calculator\Main Calculator\obj\Debug\Main_Calculator.Properties.Resources.resources
+C:\Users\skyem\Documents\Code Projects\Visual studio\Main Calculator\Main Calculator\obj\Debug\Main Calculator.csproj.GenerateResource.cache
+C:\Users\skyem\Documents\Code Projects\Visual studio\Main Calculator\Main Calculator\obj\Debug\Main Calculator.csproj.CoreCompileInputs.cache
+C:\Users\skyem\Documents\Code Projects\Visual studio\Main Calculator\Main Calculator\obj\Debug\Main Calculator.exe
+C:\Users\skyem\Documents\Code Projects\Visual studio\Main Calculator\Main Calculator\obj\Debug\Main Calculator.pdb
+C:\Users\skyem\Documents\Code Projects\Visual studio\Main Calculator\Main Calculator\obj\Debug\Main_Calculator.Calculadora.resources
