@@ -1,0 +1,10 @@
+C:\Users\skyem\Documents\Code Projects\Visual studio\Login Interface\Login Interface\obj\Debug\Login Interface.csprojAssemblyReference.cache
+C:\Users\skyem\Documents\Code Projects\Visual studio\Login Interface\Login Interface\obj\Debug\Login_Interface.Form1.resources
+C:\Users\skyem\Documents\Code Projects\Visual studio\Login Interface\Login Interface\obj\Debug\Login_Interface.Properties.Resources.resources
+C:\Users\skyem\Documents\Code Projects\Visual studio\Login Interface\Login Interface\obj\Debug\Login Interface.csproj.GenerateResource.cache
+C:\Users\skyem\Documents\Code Projects\Visual studio\Login Interface\Login Interface\obj\Debug\Login Interface.csproj.CoreCompileInputs.cache
+C:\Users\skyem\Documents\Code Projects\Visual studio\Login Interface\Login Interface\bin\Debug\Login Interface.exe.config
+C:\Users\skyem\Documents\Code Projects\Visual studio\Login Interface\Login Interface\bin\Debug\Login Interface.exe
+C:\Users\skyem\Documents\Code Projects\Visual studio\Login Interface\Login Interface\bin\Debug\Login Interface.pdb
+C:\Users\skyem\Documents\Code Projects\Visual studio\Login Interface\Login Interface\obj\Debug\Login Interface.exe
+C:\Users\skyem\Documents\Code Projects\Visual studio\Login Interface\Login Interface\obj\Debug\Login Interface.pdb
